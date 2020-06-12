@@ -1,10 +1,13 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { LandingPage } from "./views";
 
 function App() {
-  return <>App</>;
+  return (
+    <>
+      <LandingPage />
+    </>
+  );
 }
 
 export default App;
