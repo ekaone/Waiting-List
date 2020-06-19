@@ -1,10 +1,14 @@
 ## Simple Waiting List
 
-> View waiting list your customer and trigger for the next service
+View waiting list your customer and trigger for the next service
 
-## Status 💡
+## Screenshot
 
-> on working
+<p align="center">
+  <a href="https://ekaone.github.io/Waiting-List/">
+    <img src="./src/assets/banner.png" alt="Waiting List" />
+  </a>
+</p>
 
 ## Author
 
